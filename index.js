@@ -8,4 +8,4 @@ function saudacao(nome){
 }
 
 //3) Mostre o resultado
-console.log(saudacao("Turma"));
+console.log(saudacao("Turma"))
